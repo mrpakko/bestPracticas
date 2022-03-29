@@ -1,0 +1,11 @@
+{
+  "name": "vuenas-practicas",
+  "version": "0.1.0",
+  "description": "Scaffolding of a Vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pakko Iglesias clone romoan_vuenas-practicas",
+  "license": "MIT"
+}
